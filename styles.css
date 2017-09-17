@@ -1,0 +1,179 @@
+body {
+	margin-top: 0px;
+	margin-left: 10px;
+}
+
+#topLeftLogo {
+	width: 14%;
+	height: 100px;
+	margin-left: 30px;
+	-webkit-filter: grayscale(5%);
+}
+
+header {
+	background-image: url(images/soundcloudgoadvert1.jpg);
+	background-repeat: no-repeat;
+	background-size: 100%;
+	height: 455px;
+	opacity: 0.9;
+	transform:scale(1,1.05); 
+}
+
+#topRight {
+	float: right;
+	text-align: center;
+	line-height: 1px;
+	list-style: none;
+	margin-right: 20px;
+}
+
+#clearBox1 {
+	border: 1px solid;
+	border-radius: 2px;
+	width: 50px;
+	height: 10px;
+	padding-top: 15px;
+	padding-left: 10px;
+	padding-right: 10px;
+	padding-bottom: 8px;
+}
+
+#orangeBox1 {
+	border: 2px solid;
+	border-color: #FF6600;
+	border-radius: 2px;
+	width: 125px;
+	height: 10px;
+	padding-top: 15px;
+	padding-left: 5px;
+	padding-right: 5px;
+	padding-bottom: 8px;
+	background-color: #FF6600;
+}
+
+nav ul li {
+  display: inline-block;
+  margin: 22px 5px;
+  color: white;
+  font-family: Arial;
+  font-size: 15px;
+}
+
+#clearBox1:hover {
+	border: 2px solid;
+}
+
+input {
+	width: 50%;
+	box-sizing: border-box;
+	border: 1px solid white;
+	border-radius: 4px;
+	font-size: 16px;
+	background-color: whitesmoke;
+	background-image: url(images/searchicon.png);
+	background-size: 3.5%; 
+	background-repeat: no-repeat;
+	padding: 12px;
+	background-position: right;	 
+}
+
+.songs {
+	vertical-align: top;
+	display: inline-block;
+	text-align: left;
+	width: 200px;
+	margin-left: auto;
+	margin-right: auto;
+}
+
+.songImage {
+	width: 175px;
+	height: 175px;
+	margin-left: 15%;
+}
+
+.songTitle {
+	display: block;
+	margin: 0px;
+	margin-left: 15%;
+	font-family: Helvetica;
+	font-size: 14px;
+}
+
+.singer {
+	display: block;
+	margin: 0px;
+	padding-bottom: 20px;
+	margin-left: 15%;
+	font-family: "Trebuchet MS";
+	font-size: 11px;
+}
+
+#topMiddle {
+	text-align: center;
+	padding-top: 20px;
+	color: black;
+	font-family: "Trebuchet MS";
+	font-size: 110%;
+}
+
+.orangeBox {
+	border: 2px solid;
+	border-color: #FF6600;
+	border-radius: 5px;
+	width: 150px;
+	height: 10px;
+	padding-top: 13px;
+	padding-left: 40px;
+	padding-right: 40px;
+	padding-bottom: 20px;
+	background-color: #FF6600;
+	margin: auto;
+	color: white;
+	font-family: "Trebuchet MS";
+	font-size: 17px;
+	text-align: center;
+}
+
+#textLine1 p {
+	text-align: center;
+	display: inline-flex;
+	margin-top: 20px;
+	margin-left: 20px;
+}
+
+input {
+	margin-left: 160px;
+	margin-top: 50px;
+}
+
+.whiteBox {
+	border: 1.2px solid lightgrey;
+	border-radius: 2px;
+	width: 10%;
+	height: 10px;
+	padding-top: 10px;
+	padding-left: 10px;
+	padding-right: 10px;
+	padding-bottom: 20px;
+	text-align: center;
+	font-family: "Trebuchet MS";
+	color: silver;
+}
+
+.whiteBox:hover {
+	border: 1.5px solid silver;
+	color: darkgray;
+}
+
+#or {
+	font-family: "Trebuchet MS";
+	color: black;
+}
+
+#textLine2 {
+	text-align: center;
+	font-family: "Open Sans";
+	color: black;
+	font-size: 23px;
+}

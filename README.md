@@ -1,1 +1,2 @@
-# webpage-mockup
+# Jarren's Webpage-Mockup
+The Creation of this Webpage Mockup is intended for Educational Purposes Only. I do not own condone any intentions of copyright. All Rights Reserved to their Respective Owners.
