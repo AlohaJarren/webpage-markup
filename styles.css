@@ -112,7 +112,13 @@ input {
 	margin-left: 15%;
 	font-family: "Trebuchet MS";
 	font-size: 11px;
+	color: #585858;
 }
+
+.singer:hover {
+	color: black;
+}
+
 
 #topMiddle {
 	text-align: center;
