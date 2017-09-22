@@ -21,7 +21,7 @@ With the length of time given in this project, it came out in a contented fashio
 
 With that, I hope you guys enjoy my first major creation of HTML5 and CSS project I conducted. My name is Jarren Calizo, and I'm signing off ✌️✌️
 
-IG & Twitter Handle: @aloha_jxrren || Kik: silvershad_12 || Email Me At: calizo.jarren@gmail.com 
-(Kindly ask for no spamming in any handles please; Thank you all!)
+*IG & Twitter Handle: @aloha_jxrren || Kik: silvershad_12 || Email Me At: calizo.jarren@gmail.com 
+(Kindly ask for no spamming in any handles please; Thank you all!) 
 --------------------------------------------------------
 The Creation of this Webpage Mockup is intended for Educational Purposes Only. I do not own condone any intentions of copyright. All Rights Reserved to their Respective Owners.
